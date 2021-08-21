@@ -10,7 +10,7 @@
 
 [3 - The first custom element ](../../tree/ac4d9ff8c8d0983d859034087e6efee1498f05b1/)
 
-[4 - Empty ](../../tree//)
+[4 - connectedCallback() ](../../tree/5377c27382d0be1bc7acb6db00cc590e67a541fa/)
 
 [5 -  Empty ](../../tree//)
 
