@@ -4,7 +4,7 @@
 
 #### JavaScript - Practice
 
-[1 - Project setup ](../../tree//)
+[1 - Project setup ](../../tree/58c2c71278fed990af9d94d6c026c6aca89b1fbc/)
 
 [2 - Empty ](../../tree//)
 
